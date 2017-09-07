@@ -1,0 +1,15 @@
+[submodule "dnspod-sr"]
+	path = dnspod-sr
+	url = https://github.com/DNSPod/dnspod-sr.git
+[submodule "dnspod-api-doc"]
+	path = dnspod-api-doc
+	url = https://github.com/DNSPod/dnspod-api-doc.git
+[submodule "ddnspod"]
+	path = ddnspod
+	url = https://github.com/kezhou2/ddnspod.git
+[submodule "dplus-c"]
+	path = dplus-c
+	url = https://github.com/DNSPod/dplus-c.git
+[submodule "DnsPod"]
+	path = DnsPod
+	url = https://github.com/midoks/DnsPod.git
